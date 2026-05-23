@@ -1,0 +1,14 @@
+.\objects\freertos_demo.o: User\freertos_demo.c
+.\objects\freertos_demo.o: User\freertos_demo.h
+.\objects\freertos_demo.o: .\freertos\include\FreeRTOS.h
+.\objects\freertos_demo.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\freertos_demo.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\freertos_demo.o: .\freertos\FreeRTOSConfig.h
+.\objects\freertos_demo.o: .\freertos\include\projdefs.h
+.\objects\freertos_demo.o: .\freertos\include\portable.h
+.\objects\freertos_demo.o: .\freertos\include\deprecated_definitions.h
+.\objects\freertos_demo.o: .\freertos\portable\RVDS\ARM_CM3\portmacro.h
+.\objects\freertos_demo.o: .\freertos\include\mpu_wrappers.h
+.\objects\freertos_demo.o: .\freertos\include\task.h
+.\objects\freertos_demo.o: .\freertos\include\list.h
+.\objects\freertos_demo.o: D:\MDK5.36\ARM\ARMCC\Bin\..\include\stdio.h
